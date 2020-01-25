@@ -70,15 +70,12 @@
   </requires>
   <extension point="xbmc.python.pluginsource" library="apollo.py">
         <provides>video</provides>
-  <extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]BS PLAYER[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
-		<info compressed="false">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml</info>
-		<checksum>https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/ZipFiles</datadir> 
-	<extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]BS PLAYER[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
-		<info compressed="false">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml</info>
-		<checksum>https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/ZipFiles</datadir> 
-	</extension>
+  </extension>
+    <extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]BS PLAYER[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
+        <info compressed="false">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml</info>
+        <checksum>https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/ZipFiles</datadir> 
+    </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR orange][B]FEITO PARA FAMILIA![/COLOR][/B]</summary>
 	<description lang="en">[COLOR deepskyblue][B]O AUTOR NAO E RESPONSAVEL POR QUALQUER CONTEUDOS ENCONTRADO NESSE[/COLOR][/B] [COLOR orange][B] ADDON[/COLOR][/B]</description>
