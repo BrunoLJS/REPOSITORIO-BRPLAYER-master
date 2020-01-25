@@ -70,11 +70,14 @@
   </requires>
   <extension point="xbmc.python.pluginsource" library="apollo.py">
         <provides>video</provides>
-  </extension>
-    <extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]APOLLO[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
-		<info compressed="false">https://raw.githubusercontent.com/Tiagotj/REPOSITORIO-APOLLO/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/Tiagotj/REPOSITORIO-APOLLO/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/Tiagotj/REPOSITORIO-APOLLO/master/ZipFiles</datadir>
+  <extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]BS PLAYER[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
+		<info compressed="false">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml</info>
+		<checksum>https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/ZipFiles</datadir> 
+	<extension point="xbmc.addon.repository" name="Repositorio [COLOR orange][B]BS PLAYER[/B][/COLOR][COLOR deepskyblue][B][/B][/COLOR]">
+		<info compressed="false">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml</info>
+		<checksum>https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/BrunoLJS/REPOSITORIO-BRPLAYER-master/tree/master/REPOSITORIO-BSPLAYER-master/master/ZipFiles</datadir> 
 	</extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[COLOR orange][B]FEITO PARA FAMILIA![/COLOR][/B]</summary>
